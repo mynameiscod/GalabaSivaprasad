@@ -1,6 +1,20 @@
 # Galaba Siva Prasad — Portfolio
 
-Built with React, TypeScript, Vite, Motion, and Lucide icons.
+Personal portfolio for Galaba Siva Prasad: software engineering leader, AI product builder, entrepreneur and industry mentor.
+
+**Bridging the gap between what academia teaches and what the technology industry expects.**
+
+## Focus
+
+- 15+ years in software engineering and architecture
+- 10+ years of industry-focused technical training experience
+- 5+ years of student training
+- Full Stack Development: Java, Spring Boot, JavaScript, React, Python
+- DSA, problem-solving, Data Analytics, Data Science
+- Generative AI, agentic workflows, RAG and Forward Deployed Engineering
+- Industry exposure for colleges through workshops, hackathons, technical mentoring and practical programs
+
+## Development
 
 ```bash
 npm install
@@ -8,6 +22,8 @@ npm run dev
 npm run build
 ```
 
-The website is responsive and uses white, sky-blue and teal styling, with an optional navy dusk theme. Replace the hero portrait placeholder with your own photograph before launch. Review professional and product claims before publishing.
+Built with React, TypeScript, Vite, Motion and CSS.
 
-Deploy the `dist` folder to static hosting. LinkedIn is the public contact destination.
+Website: https://galabasivaprasad.com
+
+GitHub: https://github.com/mynameiscod
